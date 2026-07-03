@@ -36,7 +36,7 @@ E o detalhe favorito do projeto: **o pet continua "vivendo" com o jogo fechado**
 
 **Pré-requisito:** Python 3.10+ ([python.org](https://www.python.org/downloads/))
 
-> ⚠️ Este é um **aplicativo desktop**   roda no seu computador, não em notebooks como Google Colab ou Jupyter (o Pygame abre uma janela gráfica interativa em tempo real, e servidores de notebook não têm tela).
+> Este é um **aplicativo desktop** roda no seu computador, não em notebooks como Google Colab ou Jupyter (o Pygame abre uma janela gráfica interativa em tempo real, e servidores de notebook não têm tela).
 
 ```bash
 # 1. Clonar o repositório
